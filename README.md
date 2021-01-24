@@ -1,4 +1,4 @@
-[![Website Banner](https://raw.githubusercontent.com/larswittenberg/larswittenberg/main/assets/banner.png)](https://larswittenberg.de)
+<img src="https://raw.githubusercontent.com/larswittenberg/larswittenberg/main/images/banner.png" alt="Website Banner">
 
 
 ### Hi! ✌️ 
