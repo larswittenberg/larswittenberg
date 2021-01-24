@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/larswittenberg/larswittenberg/main/images/banner.png" alt="Website Banner" />
+<img src="https://raw.githubusercontent.com/larswittenberg/larswittenberg/main/banner.png" alt="Website Banner" />
+
+<img src="https://github.com/larswittenberg/larswittenberg/blob/main/banner.png" alt="Website Banner" />
 
 
 ### Hi! ✌️ 
