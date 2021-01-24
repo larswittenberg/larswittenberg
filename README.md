@@ -1,13 +1,9 @@
-[![Website Banner](./assets/banner.png)](https://larswittenberg.de)
+[![Website Banner](https://raw.githubusercontent.com/larswittenberg/larswittenberg/main/assets/banner.png)](https://larswittenberg.de)
 
 
-
-# Hi! ✌️ 
-
-## Ich bin Lars Wittenberg.
-
+### Hi! ✌️ 
+### Ich bin Lars Wittenberg.
 ### Frontend Web Developer aus Stuttgart.
-
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/larswittenberg)
