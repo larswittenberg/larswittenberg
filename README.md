@@ -1,8 +1,10 @@
-[![Banner](./assets/banner.png)](https://larswittenberg.de)
+[![Website Banner](./assets/banner.png)](https://larswittenberg.de)
 
-### Hi! ✌️ 
 
-### Ich bin Lars Wittenberg.
+
+# Hi! ✌️ 
+
+## Ich bin Lars Wittenberg.
 
 ### Frontend Web Developer aus Stuttgart.
 
